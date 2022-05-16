@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.86a11cf6.chunk.css",
-    "main.js": "/static/js/main.eb7729ec.chunk.js",
-    "main.js.map": "/static/js/main.eb7729ec.chunk.js.map",
+    "main.css": "/static/css/main.b6a65814.chunk.css",
+    "main.js": "/static/js/main.0fad284d.chunk.js",
+    "main.js.map": "/static/js/main.0fad284d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e63f1f7.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e63f1f7.js.map",
     "static/css/2.336ccd26.chunk.css": "/static/css/2.336ccd26.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5096a080.chunk.js.map": "/static/js/3.5096a080.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.336ccd26.chunk.css.map": "/static/css/2.336ccd26.chunk.css.map",
-    "static/css/main.86a11cf6.chunk.css.map": "/static/css/main.86a11cf6.chunk.css.map",
+    "static/css/main.b6a65814.chunk.css.map": "/static/css/main.b6a65814.chunk.css.map",
     "static/js/2.b8d54009.chunk.js.LICENSE.txt": "/static/js/2.b8d54009.chunk.js.LICENSE.txt",
     "static/media/Calcutta_University_Logo.1e3d1d3b.svg": "/static/media/Calcutta_University_Logo.1e3d1d3b.svg",
     "static/media/achivment.6e78ce8a.svg": "/static/media/achivment.6e78ce8a.svg",
@@ -44,7 +44,7 @@
     "static/js/runtime-main.8e63f1f7.js",
     "static/css/2.336ccd26.chunk.css",
     "static/js/2.b8d54009.chunk.js",
-    "static/css/main.86a11cf6.chunk.css",
-    "static/js/main.eb7729ec.chunk.js"
+    "static/css/main.b6a65814.chunk.css",
+    "static/js/main.0fad284d.chunk.js"
   ]
 }
